@@ -24,6 +24,9 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Main />} />
+        <Route path="/" element={<Popular />} />
+        <Route path="/" element={<Gender />} />
+        <Route path="/" element={<Recently />} />
         
         <Route path="home" element={<Home />} />
         <Route path="popular" element={<Popular />} />
