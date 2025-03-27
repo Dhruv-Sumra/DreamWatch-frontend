@@ -1,12 +1,13 @@
 import React from "react";
 import style from "./Brand.module.css";
 import data from "/src/pages/json/brand.json";
+import brand from "/src/assets/brand_banner.jpg"
 
 const Brand = () => {
   return (
     <div className={style.brand}>
       <div className={style.b_banner}>
-        <img src="/src/pages/imgs/brand_banner.jpg" alt="" />
+        <img src={brand} alt="" />
         <div className={style.brands}>
           {data.map((record) => {
             return (

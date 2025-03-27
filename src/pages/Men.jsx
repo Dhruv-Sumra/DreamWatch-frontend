@@ -1,12 +1,12 @@
 import style from "./Men.module.css";
 import data from "/src/pages/json/men.json";
-import { Link } from "react-router-dom";
+import men from "/src/assets/banner2.webp"
 
 const Men = () => {
   return (
     <div className={style.men}>
       <div className={style.banner}>
-        <img src="/src/pages/imgs/banner2.webp" alt="" />
+        <img src={men} alt="" />
         <div className={style.explore}>
           <h2>Best {"Men's"} Watch collection is here</h2>
           <a href="#men_sec">

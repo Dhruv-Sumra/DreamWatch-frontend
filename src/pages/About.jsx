@@ -1,6 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import style from './About.module.css'
+import ab1 from '/src/assets/ab1.jpg'
+import ab2 from '/src/assets/ab4.jpg'
+import ab3 from '/src/assets/ab5.jpg'
+import ab4 from '/src/assets/ab6.jpg'
+
 const About = () => {
     return (
         <div className={style.about_sec}>
@@ -16,14 +21,14 @@ const About = () => {
                 </div>   
 
                 <div className={style.about_img}>
-                    <img src="./src/pages/imgs/ab1.jpg" alt="" />
+                    <img src={ab1} alt="" />
                 </div> 
             </div>
 
             <div className={style.about_boxs}>
                 <div className={`${style.box} , ${style.box1}`}>
                   <div className="img">
-                      <img src="/src/pages/imgs/ab4.jpg" alt="" />
+                      <img src={ab2} alt="" />
                   </div>
                   <p>Welcome to Timeless Treasures, your ultimate destination for exquisite timepieces that blend artistry with precision. Our collection showcases a diverse array of watches, from classic mechanical marvels to cutting-edge smartwatches, each selected for its exceptional craftsmanship and innovative design. Whether you're a seasoned collector or a first-time buyer, we offer something truly special to enhance your personal style and celebrate the art of horology.</p>
                   
@@ -32,13 +37,13 @@ const About = () => {
                 <div className={`${style.box} , ${style.box2}`}>
                   <p>At Timeless Treasures, we believe that a watch is more than just a way to keep time—it's a statement of individuality and sophistication. Our curated selection features renowned brands and hidden gems alike, each with its own unique story and technical excellence. Our team of experts is dedicated to providing you with detailed insights and personalized recommendations, ensuring that every piece in our collection meets our high standards of quality and elegance.</p>
                   <div className="img">
-                      <img src="/src/pages/imgs/ab5.jpg" alt="" />
+                      <img src={ab3} alt="" />
                   </div>
                 </div>  
 
                 <div className={`${style.box} , ${style.box3}`}>
                   <div className="img">
-                      <img src="/src/pages/imgs/ab6.jpg" alt="" />
+                      <img src={ab4} alt="" />
                   </div>
                   <p>We invite you to explore our website and discover the perfect watch that resonates with your personal taste and lifestyle. With a focus on unparalleled service and a commitment to authenticity, Timeless Treasures is here to help you find a timepiece that not only marks moments but also becomes a cherished part of your journey. Thank you for visiting, and we look forward to guiding you through the world of fine watches.</p>
                   

@@ -1,12 +1,12 @@
 import style from "./Women.module.css";
 import data from "/src/pages/json/women.json";
-import { Link } from "react-router-dom";
+import women from "/src/assets/banner4.webp"
 
 const Women = () => {
   return (
     <div className={style.women}>
       <div className={style.banner}>
-        <img src="/src/pages/imgs/banner4.webp" alt="" />
+        <img src={women} alt="" />
         <div className={style.explore}>
           <h2>Best {"Women's"} Watch collection is here</h2>
           <a href="#women_sec">

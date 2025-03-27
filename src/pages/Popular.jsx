@@ -1,13 +1,13 @@
 import React from "react";
 import style from "./Popular.module.css";
 import data from "/src/pages/json/popular.json";
-import { Link } from "react-router-dom";
+import popular from "/src/assets/pop_banner.jpg"
 
 const Pop = () => {
   return (
     <div className={style.pop}>
       <div className={style.banner}>
-        <img src="/src/pages/imgs/pop_banner.jpg" alt="" />
+        <img src={popular} alt="" />
         <div className={style.explore}>
           <h2>Popular Watch collection is here</h2>
           <a href="#pop_sec">

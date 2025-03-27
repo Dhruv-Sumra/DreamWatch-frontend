@@ -1,13 +1,13 @@
 import React from "react";
 import style from "./Recent.module.css";
 import data from "/src/pages/json/recent.json";
-import { Link } from "react-router-dom";
+import recent from "/src/assets/recent.jpg"
 
 const Recent = () => {
   return (
     <div className={style.pop}>
       <div className={style.banner}>
-        <img src="/src/pages/imgs/recent.jpg" alt="Recently Launched Watches Banner" />
+        <img src={recent} alt="Recently Launched Watches Banner" />
         <div className={style.explore}>
           <h2>Recently Launched Watches Are Here</h2>
           <a href="#pop_sec">

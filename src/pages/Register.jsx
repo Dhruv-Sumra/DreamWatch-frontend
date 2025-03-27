@@ -1,11 +1,12 @@
 import React from "react";
 import style from "./Register.module.css";
+import register from '/src/assets/regiter.webp'
 
 const Register = () => {
   return (
     <div className={style.signup}>
       <div className={style.image}>
-        <img src="/src/pages/imgs/regiter.webp" alt="" />
+        <img src={register} alt="" />
       </div>
 
       <div className={style.rege}>

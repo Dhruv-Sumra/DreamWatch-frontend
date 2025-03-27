@@ -1,5 +1,6 @@
 import React from 'react'
 import style from './Login.module.css'
+import log_banner from '/src/assets/logimg.png'
 
 function Login(){
   
@@ -7,7 +8,7 @@ function Login(){
     <div className={style.log_body}>
      <div className={style.log_section}>
             <div className={style.log_img}>
-                <img src="/src/pages/imgs/logimg.png" alt="" />
+                <img src={log_banner} alt="" />
             </div>
 
             <div className={style.log}>

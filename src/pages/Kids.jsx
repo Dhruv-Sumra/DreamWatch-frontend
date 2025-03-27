@@ -1,12 +1,12 @@
 import style from "./Kids.module.css";
 import data from "/src/pages/json/kids.json";
-import { Link } from "react-router-dom";
+import kids from "/src/assets/banner5.jpg"
 
 const Kids = () => {
   return (
     <div className={style.kids}>
       <div className={style.banner}>
-        <img src="/src/pages/imgs/banner5.jpg" alt="" />
+        <img src={kids} alt="" />
         <div className={style.explore}>
           <h2>Best {"Kid's"} Watch collection is here</h2>
           <a href="#kids_sec">
