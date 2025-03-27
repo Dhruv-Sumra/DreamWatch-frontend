@@ -2,132 +2,84 @@
     {
         "id" : 1,
         "name":"Rolex Air-King",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/pjqtS7Rv/men1.jpg",
-=======
-        "img" :"./src/pages/imgs/men1.jpg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Oyster, 40 mm, Oystersteel Waterproof to 100 metres / 330 feet",
         "price": 560000
     },
     {
         "id" : 2,
         "name":"Rolex GMT-M II",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/Nd15FH2x/men2.jpg",
-=======
-        "img" :"src/pages/imgs/men2.jpg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Oyster 40 mm acciaio Oystersteel 126710BLRO",
         "price": 352500
     },
     {
         "id" : 3,
         "name":"Citizen eco-drive",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/d0GgH4bk/men3.jpg",
-=======
-        "img" :"src/pages/imgs/men3.jpg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":" Citizen Eco-Drive Gents Watch Green Dial - CB5919-00X Stainless Steel with Rose Gold",
         "price": 64900
     },
     {
         "id" : 4,
         "name":"Citizen Automatic",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/GfMTXYps/men4.jpg",
-=======
-        "img" :"src/pages/imgs/men4.jpg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Citizen Automatic Gents Watch Blue Dial - NH9130-84L E168-00M",
         "price": 33900
     },
     {
         "id" : 5,
         "name":"TAG Heuer Formula 1",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/vxJBrhH7/men5.jpg",
-=======
-        "img" :"src/pages/imgs/men5.jpg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Formula 1 43mm Quartz Chronograph Mens Watch CAZ1010.BA0842",
         "price": 190000
     },
     {
         "id" : 6,
         "name":"TAG Heuer Aquaracer",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/V0Gzt5DQ/men6.jpg",
-=======
-        "img" :"src/pages/imgs/men6.avif",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Aquaracer 300M 41mm Quartz Mens Watch WBD1120.BB0930",
         "price": 150000
     },
     {
         "id" : 7,
         "name":"Fossil Analog",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/WXFC2dd/men7.jpg",
-=======
-        "img" :"src/pages/imgs/men7.jpg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Analog Multicolor Dial Men's Stainless Steel Watch-ME3256",
         "price": 25000
     },
     {
         "id" : 8,
         "name":"Fossil Townsman",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/99KS0BFW/men8.jpg",
-=======
-        "img" :"src/pages/imgs/men8.jpg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Townsman Analog Blue Dial Men's Leather Watch-ME3110",
         "price": 20000
     },
     {
         "id" : 9,
         "name":"Titan Xylys",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/67s3zbTB/men9.webp",
-=======
-        "img" :"src/pages/imgs/men9.webp",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Quartz Chronograph Black Dial Stainless Steel",
         "price": 47000
     },
     {
         "id" : 10,
         "name":"Titan Metal ",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/r2Ly0Tsv/men10.webp",
-=======
-        "img" :"src/pages/imgs/men10.webp",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Mechanicals Analog Anthracite Dial Titanium  Men-NS90140YM01",
         "price": 32000
     },
     {
         "id" : 11,
         "name":"Arnold & Son ",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/RGrmzPNy/men11.jpg",
-=======
-        "img" :"src/pages/imgs/men11.jpg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Mechanicals Analog Anthracite Dial Titanium  Men-NS90140YM01",
         "price": 216000
     },
     {
         "id" : 12,
         "name":"Arnold & Son TBTE",
-<<<<<<< HEAD
         "img" :"https://i.ibb.co/jkR7vYXF/men12.jpg",
-=======
-        "img" :"src/pages/imgs/men12.jpeg",
->>>>>>> a83caa80e0d57681cb332e08542e4a608ad6f1ef
         "meta":"Mechanicals Analog Anthracite Dial Titanium  Men-NS90140YM01",
         "price": 162000
     }
