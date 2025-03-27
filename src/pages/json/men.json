@@ -2,7 +2,7 @@
     {
         "id" : 1,
         "name":"Rolex Air-King",
-        "img" :"src/pages/imgs/men1.jpg",
+        "img" :"..imgs/men1.jpg",
         "meta":"Oyster, 40 mm, Oystersteel Waterproof to 100 metres / 330 feet",
         "price": 560000
     },
