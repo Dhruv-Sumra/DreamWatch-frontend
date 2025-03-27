@@ -1,127 +1,127 @@
 [
     {
         "id":1,
-        "img":"/src/pages/imgs/brand1.png",
+        "img":"https://i.ibb.co/20hwCsS2/brand1.png",
         "link":"https://www.rolex.com"
     },
     {
         "id":2,
-        "img":"/src/pages/imgs/brand2.png",
+        "img":"https://i.ibb.co/BH4PKhnw/brand2.png",
         "link":"https://www.titan.co.in"
     },
     {
         "id":3,
-        "img":"/src/pages/imgs/brand3.webp",
+        "img":"https://i.ibb.co/RG21T3yc/brand3.webp",
         "link":"https://www.citizenwatch.com"
     },
     {
         "id":4,
-        "img":"/src/pages/imgs/brand4.jpg",
+        "img":"https://i.ibb.co/dw3XyV8J/brand4.jpg",
         "link":"https://www.tagheuer.com"
     },
     {
         "id":5,
-        "img":"/src/pages/imgs/brand5.jpeg",
+        "img":"https://i.ibb.co/sdZk7DJ8/brand5.jpg",
         "link":"https://www.omegawatches.com"
     },
     {
         "id":6,
-        "img":"/src/pages/imgs/brand6.png",
+        "img":"https://i.ibb.co/2YkMhc4d/brand6.jpg",
         "link":"https://www.gucci.com"
     },
     {
         "id":7,
-        "img":"/src/pages/imgs/brand7.jpg",
+        "img":"https://i.ibb.co/ZpFzKVjr/brand7.jpg",
         "link":"https://www.fossil.com"
     },
     {
         "id":8,
-        "img":"/src/pages/imgs/brand8.jpeg",
+        "img":"https://i.ibb.co/zjcJvLR/brand8.jpg",
         "link":"https://www.patek.com"
     },
     {
         "id":9,
-        "img":"/src/pages/imgs/brand9.png",
+        "img":"https://i.ibb.co/Fk0R2RKN/brand9.png",
         "link":"https://www.cartier.com"
     },
     {
         "id":10,
-        "img":"/src/pages/imgs/brand10.jpeg",
+        "img":"https://i.ibb.co/VpNDp12s/brand10.jpg",
         "link":"https://www.montblanc.com"
     },
     {
         "id":11,
-        "img":"/src/pages/imgs/brand11.jpg",
+        "img":"https://i.ibb.co/Jw6CncD4/brand11.jpg",
         "link":"https://www.piaget.com"
     },
     {
         "id":12,
-        "img":"/src/pages/imgs/brand12.png",
+        "img":"https://i.ibb.co/PzFsMbnq/brand12.png",
         "link":"https://www.chopard.com"
     },
     {
         "id":13,
-        "img":"/src/pages/imgs/brand13.jpg",
+        "img":"https://i.ibb.co/SwVKqyYg/brand13.jpg",
         "link":"https://www.panerai.com"
     },
     {
         "id":14,
-        "img":"/src/pages/imgs/brand14.jpeg",
+        "img":"https://i.ibb.co/BVQZNBLd/brand14.jpg",
         "link":"https://www.hublot.com"
     },
     {
         "id":15,
-        "img":"/src/pages/imgs/brand15.jpg",
+        "img":"https://i.ibb.co/Nnk5v0DR/brand15.jpg",
         "link":"https://www.vincerocollective.com"
     },
     {
         "id":16,
-        "img":"/src/pages/imgs/brand16.png",
+        "img":"https://i.ibb.co/3yKXWMvD/brand16.png",
         "link":"https://www.nordgreen.com"
     },
     {
         "id":17,
-        "img":"/src/pages/imgs/brand17.jpg",
+        "img":"https://i.ibb.co/xqqNmd2B/brand17.jpg",
         "link":"https://www.rado.com"
     },
     {
         "id":18,
-        "img":"/src/pages/imgs/brand18.jpg",
+        "img":"https://i.ibb.co/SX8QjcsK/brand18.jpg",
         "link":"https://www.bamford.com"
     },
     {
         "id":19,
-        "img":"/src/pages/imgs/brand19.png",
+        "img":"https://i.ibb.co/0VzpssqT/brand19.png",
         "link":"https://www.tudor.com"
     },
     {
         "id":20,
-        "img":"/src/pages/imgs/brand20.png",
+        "img":"https://i.ibb.co/Mkj9gJWp/brand20.jpg",
         "link":"https://www.hamiltonwatch.com"
     },
     {
         "id":21,
-        "img":"/src/pages/imgs/brand21.png",
+        "img":"https://i.ibb.co/hFrRsBCQ/brand21.png",
         "link":"https://www.arnoldandson.com"
     },
     {
         "id":22,
-        "img":"/src/pages/imgs/brand22.webp",
+        "img":"https://i.ibb.co/4RwjqzK7/brand22.png",
         "link":"https://www.girard-perregaux.com"
     },
     {
         "id":23,
-        "img":"/src/pages/imgs/brand23.jpg",
+        "img":"https://i.ibb.co/JWzMJp8Z/brand23.jpg",
         "link":"https://www.jaeger-lecoultre.com"
     },
     {
         "id":24,
-        "img":"/src/pages/imgs/brand24.png",
+        "img":"https://i.ibb.co/PsWzsZ9P/brand24.png",
         "link":"https://www.audemarspiguet.com"
     },
     {
         "id":25,
-        "img":"/src/pages/imgs/brand25.jpg",
+        "img":"https://i.ibb.co/FLDrYNs7/brand25.jpg",
         "link":"https://www.alange-soehne.com"
     }
 ]
