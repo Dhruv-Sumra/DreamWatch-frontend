@@ -23,12 +23,8 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Main />} />
-        <Route path="/" element={<Popular />} />
-        <Route path="/" element={<Gender />} />
-        <Route path="/" element={<Recent />} />
         
-        <Route path="home" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route path="popular" element={<Popular />} />
         <Route path="gender" element={<Gender />} />
         <Route path="recent" element={<Recent />} />
